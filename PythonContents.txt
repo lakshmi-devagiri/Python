@@ -1,5 +1,5 @@
-ALGORITHM COMPUTERS
-PYTHON COURSE
+ALGORITHM COMPUTERS PYTHON COURSE
+
 
 The following are the course contents for Python:
 
@@ -20,3 +20,4 @@ Stacks and Queues
 14) Excel File Handling
 15) Standard Deviation case study 
 (and some more case studies)
+
