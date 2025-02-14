@@ -1,0 +1,22 @@
+ALGORITHM COMPUTERS
+PYTHON COURSE
+
+The following are the course contents for Python:
+
+1)	Sequential Programming
+2)	Branching
+3)	Looping
+4)	Functions
+5)	Arrays
+6)	Strings
+7)	Formatted Printing
+8)Sequential File Handling
+9)Exception Handling
+10)Classes and Objects
+11)Lists, Tuples, Dictionary, Sets	
+Stacks and Queues
+12) MySQL 
+13) System Calls
+14) Excel File Handling
+15) Standard Deviation case study 
+(and some more case studies)

@@ -1,0 +1,11 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is C645-3080
+
+ Directory of C:\MyPython\ch13
+
+02/13/2025  09:16 PM                92 ex1.py
+02/13/2025  09:20 PM                94 ex2.py
+02/13/2025  09:22 PM               182 ex3.py
+02/13/2025  09:25 PM               171 ex4.py
+               4 File(s)            539 bytes
+               0 Dir(s)  402,726,551,552 bytes free

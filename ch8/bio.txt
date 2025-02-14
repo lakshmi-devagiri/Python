@@ -1,0 +1,6 @@
+Name:Lakshmi
+Age:26
+Salary:100000.0
+Name:Suresh
+Age:35
+Salary:120000.0

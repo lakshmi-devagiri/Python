@@ -1,0 +1,11 @@
+#(Another stack example)
+stack = [ 3, 4, 5, 7]
+print (stack)
+print ("popped = ", stack.pop())
+print (stack)
+stack.append(9)
+print (stack)
+print (stack.pop())
+print (stack)
+stack.pop()
+print (stack)

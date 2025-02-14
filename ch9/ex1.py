@@ -1,0 +1,5 @@
+#(Try this example with wrong input like abc etc.)
+#(Is the program hanging or halting?)
+x = int(input("Enter a number:"))
+print("You entered:",x)
+print("End of program")

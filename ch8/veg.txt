@@ -1,0 +1,8 @@
+tomato
+15.5
+potato
+12.5
+cucumber
+30
+coconut
+15.0

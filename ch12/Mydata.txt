@@ -1,0 +1,40 @@
+SQL- Lesson - 1
+----------------------------------
+1) create database algo;
+2) use algo; 
+3) create a table
+
+create table emp
+(
+  id int primary key,
+  name varchar(30),
+  salary decimal(10,2)
+);
+
+4) desc emp; // describe
+mysql> desc emp;
++--------+---------------+------+-----+---------+-------+
+| Field  | Type          | Null | Key | Default | Extra |
++--------+---------------+------+-----+---------+-------+
+| id     | int(11)       | NO   | PRI | NULL    |       |
+| name   | varchar(30)   | YES  |     | NULL    |       |
+| salary | decimal(10,2) | YES  |     | NULL    |       |
++--------+---------------+------+-----+---------+-------+
+3 rows in set (0.04 sec)
+
+5) drop table ....;
+ex: 
+create table dummy
+(
+id int,
+name varchar(20)
+);
+
+5.a) drop table dummy;
+
+6) insert into emp values(111,'naveen', 3000);
+insert into emp values(222,'rao', 1000);
+.....
+commit;
+
+7) select * from emp;
